@@ -1,0 +1,15 @@
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\net6.0\LoopsAndRecursion.exe
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\net6.0\LoopsAndRecursion.deps.json
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\net6.0\LoopsAndRecursion.runtimeconfig.json
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\net6.0\LoopsAndRecursion.dll
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\net6.0\LoopsAndRecursion.pdb
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.csproj.AssemblyReference.cache
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.AssemblyInfoInputs.cache
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.AssemblyInfo.cs
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.csproj.CoreCompileInputs.cache
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.dll
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\refint\LoopsAndRecursion.dll
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.pdb
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\LoopsAndRecursion.genruntimeconfig.cache
+C:\Users\koval\Desktop\Projekts\PlanetsAnonTypeApp1\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\net6.0\ref\LoopsAndRecursion.dll

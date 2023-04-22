@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoopsAndRecursion/1.0.0": {
+        "runtime": {
+          "LoopsAndRecursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsAndRecursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
